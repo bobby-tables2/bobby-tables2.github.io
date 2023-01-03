@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deciphering Elctrical Signals | The challenge SIGINT from CTF.SG CTF 2022"
-date:   2022-3-14 20:29:00 +0800
+date:   2022-12-28 21:37:00 +0800
 categories: jekyll update
 ---
 
