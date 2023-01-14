@@ -5,10 +5,6 @@ date:   2022-12-29 13:10:00 +0800
 categories: jekyll update
 ---
 
-> The repository for Loop Labyrinth can be found [here.](https://github.com/bobby-tables2/Loop-Labyrinth)
-
----
-
 # What is Loop Labyrinth about?
 
 ![GIF of gameplay from Loop Labyrinth](/assets/images/loop_labyrinth1/gameplay1.gif)
