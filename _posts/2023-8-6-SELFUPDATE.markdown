@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "August 2023 update on myself"
+title: "August 2023 update"
 date: 2023-8-6 22:48:00 +0800
 categories: jekyll update
 ---
@@ -32,12 +32,10 @@ It was very difficult because:
 - **Loop Labyrinth:** I haven't done anything with it because its about complicated math, and I have made the decision to private the repository containing its code.
 
 # Topology
-I now have a better idea of what topology is. **Topology is the study of how points within a set of points are close to each other, even when there is no way to calculate the distance between them** (in which case you just keep track of every possible combination of points that can be grouped together like neighbours, such that you can combine these combinations using set operations and still get a valid combination).
+I tried to study topology for Loop Labyrinth and my grasp of it is still very loose. 
 
-Shapes are sets of points. Homeomorphisms are functions that take one point from a shape and assigns it to another point in another shape. This is useful, because, for example, two shapes that are homeomorphic (a type of congruence) have the same number of holes, like a donut-shape and a cup-shape.
+Regardless, a topology on a set of points S is a collection of subsets of S (regions within S where there are points that are connected to each other) such that the union of all subsets gives back S (every point makes up S), and the intersection of all subset is still in the topology (there is a smallest possible region that still contains points that are connected to each other).
 
-**My game Loop Labyrinth is about how you can represent 3D shapes by taking a square and gluing together the sides,** which is possible as the square is homemorphic to the shape.
+A homeomorphism from space 1 to space 2 is a continuous one-to-one function that assigns each point in space 1 to a point in space 2. For example, take the points on a cube, normalise the coordinates of those points(divide by the length from origin), and you now have the points on a sphere.
 
-...
-
-In any case, I'll be writing about something more interesting next time. See you there.
+Loop Labyrinth isn't very topology related but it does revolve around homeomorphisms. By teleporting objects from one edge of a plane to another, I effectively created a homeomophism that sewed together the two edges of the plane.
