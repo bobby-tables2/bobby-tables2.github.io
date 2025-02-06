@@ -4,25 +4,8 @@ title: About
 permalink: /about/
 ---
 
-# Who is Bobby Tables? 
-![OH, YES. LITTLE BOBBY TABLES, WE CALL HIM.](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)
+I am a computer science undergraduate with broad and varied interests spanning web development, reverse engineering, electrical engineering, machine learning, image processing, computer graphics and game development. 
 
-I am a programmer, infosec enthusiast and game developer. I named myself after the [XKCD comic](https://xkcd.com/327/).
+As a fast learner, I have skills in the languages Python, C#, Java, SwiftUI, HTML, CSS and C++, the libraries NumPy, Seaborn, Matplotlib and OpenCV, as well as the tools SQLite, MongoDB, Git, Docker, LaTeX and the Arduino. 
 
-![my character](/assets/images/github_fox.svg)
-
-This is how I draw myself.
-
-# What is Bobby Tables skilled at?
-I have some experience in the following programming languages:
-- Python
-- C++
-- C#
-- Batch (Windows shell script)
-
-And I have also used the following frameworks/software:
-- Flask and Jinja
-- LaTeX
-- OpenCV
-- VMWare Fusion
-- Unity
+I have participated in several cybersecurity and computing competitions in the past and have various reverse engineering, electrical engineering and game related personal projects under my belt. 

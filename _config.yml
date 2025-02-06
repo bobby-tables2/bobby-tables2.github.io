@@ -21,7 +21,7 @@
 theme: jekyll-theme-minimal
 title: Bobby Tables's web portfolio
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Bobby Tables's web portfolio. This contains descriptions of my past and present projects.
+  Welcome to Bobby Tables's web portfolio. This site is a portfolio of my past and present projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://bobby-tables2.github.com/ # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  bobby-tables2

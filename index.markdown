@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Welcome to my little corner of the internet, project writeups below.
+A computer science undergraduate with broad interests spanning web development to reverse engineering. This blog serves as my portfolio for the things I made.
